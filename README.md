@@ -84,5 +84,19 @@
 ![image](https://github.com/user-attachments/assets/a3889d3d-1add-42b9-9ca6-4ccfb5a2e905)
 ![image](https://github.com/user-attachments/assets/46338691-3d08-4046-adf4-83b269943826)
 
+- Now install ELK stack on the virtual machine.
+![image](https://github.com/user-attachments/assets/f42a5011-dc1e-4c37-8b38-fdc7f3e4e7f4)
+
+- Copy download link for Linux CLI
+
+       wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.15.1-amd64.deb
+![image](https://github.com/user-attachments/assets/c19d95c8-9647-43cb-b997-157b63fb1f16)
+
+- Install Elasticsearch
+![image](https://github.com/user-attachments/assets/ba131ad9-477f-4d23-95f3-db12ed3605ee)
+
+
+
+
 
 
