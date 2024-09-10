@@ -111,6 +111,8 @@
       ![image](https://github.com/user-attachments/assets/7d8b6e32-fa8f-47ec-8e76-585d3e95e6c4)
 
 - To further secure the server, add a firewall group as below
-  ![image](https://github.com/user-attachments/assets/aa534b20-766f-4b50-adb6-136fac267fd1)
+  ![image](https://github.com/user-attachments/assets/fc275200-907f-496c-9091-e6ae076a17c3)
 
+- Enable, start, and check elasticsearch.service.
+![image](https://github.com/user-attachments/assets/36a66f41-92c5-4a9a-874e-036ca9d5fa77)
 
