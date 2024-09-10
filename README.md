@@ -113,6 +113,6 @@
 - To further secure the server, add a firewall group as below
   ![image](https://github.com/user-attachments/assets/fc275200-907f-496c-9091-e6ae076a17c3)
 
-- Enable, start, and check elasticsearch.service.
+- Enable, start, and check status of elasticsearch.service.
 ![image](https://github.com/user-attachments/assets/36a66f41-92c5-4a9a-874e-036ca9d5fa77)
 
