@@ -1,4 +1,4 @@
-# SOC-Analyst-Challenge
+![image](https://github.com/user-attachments/assets/c4b512ce-6b2f-4b43-b4cb-3fc8c9600a2c)# SOC-Analyst-Challenge
 ## Objectives
 - Obtain parcatical experience in 30 days
 - Attain SOC skills
@@ -95,8 +95,15 @@
 - Install Elasticsearch
 ![image](https://github.com/user-attachments/assets/ba131ad9-477f-4d23-95f3-db12ed3605ee)
 
+- Note the Elastic superuser password
+- Enter Elasticsearch directory and find elasticsearch.yml file for configuration
 
+![image](https://github.com/user-attachments/assets/df79f5bd-0de6-4b96-a95c-6a5fb06b3a39)
 
+- Edit the file
+  - Uncomment the network.host and enter the public IP address
 
+        ip a
+    ![image](https://github.com/user-attachments/assets/6cda2acf-e555-4acc-a408-dcf0665ae2c7)
 
 
