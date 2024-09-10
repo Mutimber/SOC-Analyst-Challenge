@@ -1,8 +1,7 @@
-![image](https://github.com/user-attachments/assets/c4b512ce-6b2f-4b43-b4cb-3fc8c9600a2c)# SOC-Analyst-Challenge
+# SOC-Analyst-Challenge
 ## Objectives
 - Obtain parcatical experience in 30 days
-- Attain SOC skills
-- 
+- Attain SOC skills 
 ## Day 1: Create a Logical Diagram
 - Use draw.io
 ![image](https://github.com/user-attachments/assets/e53e99c1-d566-46a4-8a60-08fa086fbd56)
@@ -100,10 +99,18 @@
 
 ![image](https://github.com/user-attachments/assets/df79f5bd-0de6-4b96-a95c-6a5fb06b3a39)
 
-- Edit the file
-  - Uncomment the network.host and enter the public IP address
+- Find the public IP
 
         ip a
     ![image](https://github.com/user-attachments/assets/6cda2acf-e555-4acc-a408-dcf0665ae2c7)
+
+- Edit the file
+
+        nano elasticsearch.yml
+    - Uncomment the http.port & network.host and enter the public IP address from above
+      ![image](https://github.com/user-attachments/assets/7d8b6e32-fa8f-47ec-8e76-585d3e95e6c4)
+
+- To further secure the server, add a firewall group as below
+  ![image](https://github.com/user-attachments/assets/aa534b20-766f-4b50-adb6-136fac267fd1)
 
 
