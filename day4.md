@@ -22,3 +22,15 @@
 - Enable, start, and check status of kibana.service
 ![image](https://github.com/user-attachments/assets/e137e17e-826d-4521-bbf3-2d5a9fc630c8)
 
+- Generate elasticsearch enrolment token for kibana
+
+      cd /usr/share/elasticsearch/bin
+  ![image](https://github.com/user-attachments/assets/3824957f-414d-410e-922d-9d35891e0832)
+
+  ![image](https://github.com/user-attachments/assets/a61c2f14-a094-481a-958f-3206670efb72)
+
+- Add TCP ports to the Firewall rule to allow connection to ELK on port 5601
+
+  ![image](https://github.com/user-attachments/assets/7df0ea81-660e-4b13-9dbf-6d473e5f79d9)
+
+  
